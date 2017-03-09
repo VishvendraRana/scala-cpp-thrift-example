@@ -1,7 +1,7 @@
 # scala-cpp-thrift-example
 
 CPP
-======
+----
 -> generate files by using the below command
     thrift --gen cpp calculator.thrift
 
@@ -14,8 +14,8 @@ CPP
     ./calc_server
 
 
-Scala:
-======
+Scala
+------
 -> create build.sbt file and add scrooge and finagle dependencies
 
 -> add the source thrift file location and destination folder for generated files in the build file
