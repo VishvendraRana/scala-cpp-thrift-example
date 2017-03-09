@@ -1,0 +1,1 @@
+# scala-cpp-thrift-example
